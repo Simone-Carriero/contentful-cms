@@ -16,7 +16,7 @@ const Hero = () => {
         <img
           src={heroSvg}
           alt='hero image'
-          className='image-container img'
+          className='img-container img'
         />
       </div>
     </section>
